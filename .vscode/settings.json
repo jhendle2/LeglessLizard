@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "common.h": "c",
+        "args.h": "c",
+        "*.llz": "python",
+        "*.tcc": "c",
+        "string": "c",
+        "istream": "c",
+        "streambuf": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "lexer.h": "c"
+    }
+}
