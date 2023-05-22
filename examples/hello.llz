@@ -1,3 +1,7 @@
 
-def main() -> None:
-    print('Hello, World!')
+# namespace main {
+    def main() public -> None {
+        s: mut str = 'Hello, World!';
+        print(s);
+    }
+# }
